@@ -18,8 +18,8 @@ def fetch_image(url):
     return Image.open(image_data)
 
 # Background images
-sky_image_url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLyhQaHg45zMVe_qZ10azlmOxAiNyqgNA1w&s"
-ground_image_url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQ7zzFl_4GxIamMqyaIWqfhu4Cho2hOLwGg&s"
+sky_image_url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLyhQaHg45zMVe_qZ10azlmOxAiNyqgNA1w&s"# Add your own image path if it doesn't work
+ground_image_url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQ7zzFl_4GxIamMqyaIWqfhu4Cho2hOLwGg&s"# Add your own image path if it doesn't work
 
 # Egg image
 egg_image_url = "https://icons.iconarchive.com/icons/google/noto-emoji-food-drink/512/32390-egg-icon.png"
